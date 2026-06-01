@@ -3,7 +3,7 @@
 Project analisis data Kimia Farma menggunakan Google BigQuery
 
 ## Objective
-Membuat tabel analisa dari penggabungan beberapa tabel sumber
+Membuat tabel analisa dari penggabungan 4 tabel sumber
 
 ## Dataset
 - kf_final_transaction
